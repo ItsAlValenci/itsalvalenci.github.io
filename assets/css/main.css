@@ -6,7 +6,7 @@
   height: 200px;
   border-radius: 50%;
   overflow: hidden;
-  margin: 0 auto 20px auto; /* Reset margin */
+  margin: 100px auto 0px auto !important; /* Increased top margin to move image further down */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,7 +21,7 @@
 }
 
 .user-details {
-  padding-top: 100px; /* Half of new image height to center it in the white space */
+  padding-top: 0 px !important; /* Reduced padding to bring heading closer to image */
 }
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
