@@ -1,18 +1,19 @@
 # Site settings
-title: Albert Valencia | Data Analyst
-description: Data Analyst specializing in Python, SQL, and ML-driven insights with 3+ years of experience in competitive intelligence and predictive analytics.
+title: Albert Valencia | Portfolio
+description: Data scientist with over 3 years of experience helping businesses understand their data and make better decisions. Skilled at turning complex information into clear, practical solutions that drive real results.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://itsalvalenci.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: ALBERT VALENCIA
 user_description: |
-  <p>Over the past three years, I’ve worked across a variety of industries — from technology to agriculture — which has helped me bring together technical skills and real-world business context in every project I take on. In addition to my work as a data analyst, I’ve also taken on responsibilities in project management, product ownership, and quality assurance, where these experiences have helped me better collaborate across different teams and approach challenges from multiple angles.</p>
+  <p>Over the past three years, I’ve worked across a variety of industries — from technology to agriculture — allowing me to combine technical expertise with real-world business insight in every project. Beyond my data role, I’ve gained experience in project management, product ownership, and quality assurance, all of which have enhanced my ability to collaborate effectively across teams and approach challenges from multiple angles.</p>
 
   <p>I’ve found that being adaptable and comfortable with ambiguity has often been one of my strengths. I enjoy breaking down complex ideas into practical solutions that actually get used. Whether it's tackling technical problems or understanding what a team really needs to move forward, I’m focused on finding that middle ground and working collaboratively to get to the answer.</p>
 
   <p>Outside of work, I’ve been passionate about video games for over a decade. I volunteer as a playtester for different games and software (mostly for the fun of it), because I enjoy understanding how people interact with systems. This experience has deepened my interest in user behavior and how even small changes can completely reshape a product experience.</p>
-user_title: Data Analyst | San Francisco, CA
+
+user_title: Data Scientist | San Francisco, CA
 email: albertvalencia904@gmail.com
 twitter_username: ItsAlValenci
 github_username: ItsAlValenci
