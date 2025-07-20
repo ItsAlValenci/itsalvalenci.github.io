@@ -24,7 +24,7 @@
   padding-top: 0 px !important; /* Reduced padding to bring heading closer to image */
 }
 
-.user-details p {
+.user-details p, .tech p {
   text-align: justify;
 }
 /* Adding fix for layout of text and images in project  */
